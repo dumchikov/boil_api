@@ -58,6 +58,12 @@ namespace BoilAPI.Controllers
                     Name = "Грибы",
                     Image = "",
                     Type = CategoryType.Mashrooms
+                },
+                new Category
+                {
+                    Name = "Другое",
+                    Image = "",
+                    Type = CategoryType.Others
                 }
             }.OrderBy(x => x.Name);
         }
