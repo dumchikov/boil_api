@@ -3,7 +3,11 @@
         <form class="form-inline" ng-submit="vm.search()">
             <p>
                 <input class="form-control" type="text" ng-model="vm.searchTerms" />
+                <select class="form-control"
+                        ng-options="o as o.name for o in vm.categories track by o.type"
+                        ng-model="vm.category"></select>
                 <input class="btn btn-success" type="submit" value="{{vm.res.search}}" />
+                <label>{{vm.products.length}}</label>
             </p>
         </form>
     </div>

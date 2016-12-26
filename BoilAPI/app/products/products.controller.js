@@ -12,9 +12,10 @@
         '$location',
         '$modal',
         'ProductsService',
-        'ProductRes'];
+        'ProductRes',
+        'CategoriesService'];
 
-    function Products($filter, $state, $log, $location, $modal, ProductsService, ProductRes) {
+    function Products($filter, $state, $log, $location, $modal, ProductsService, ProductRes, CategoriesService) {
 
         var vm = this;
         vm.res = ProductRes;
@@ -25,19 +26,36 @@
             });
         }
 
+        CategoriesService.getAllCategories()
+            .then(function (categories) {
+                categories.unshift(vm.category);
+                vm.categories = categories;
+            });
+
         vm.getProducts();
 
         vm.products = [];
 
+        vm.categories = [];
+
         vm.searchTerms = '';
+        vm.category = { "name": "Все", type: null };
 
         vm.search = function () {
             vm.getProducts().$promise.then(function () {
+                var result = vm.products;
                 if (vm.searchTerms) {
-                    vm.products = $filter('filter')(vm.products, function (product) {
+                    result = $filter('filter')(result, function (product) {
                         return product.title.toLowerCase().indexOf(vm.searchTerms.toLowerCase()) != -1;
                     });
                 }
+                if (vm.category && vm.category.type) {
+                    result = $filter('filter')(result, function (product) {
+                        return  product.category.type === vm.category.type;
+                    });
+                }
+
+                vm.products = result;
             });
         }
 

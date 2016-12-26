@@ -7,12 +7,19 @@
 
     AuthenticationService.$inject = ['UserService', '$cookieStore'];
 
-    function AuthenticationService (UserService, $cookieStore) {
+    function AuthenticationService(UserService, $cookieStore) {
         var authKey = "_auth";
 
         function login(username, password, callback) {
-            var response;
-            callback({ success: true });
+
+            if (username === "boil" && password === "boil123") {
+                callback({ success: true });
+            } else {
+                callback({ success: false, message: 'Username or password is incorrect' });
+            }
+
+            //var response;
+            //callback({ success: true });
             //UserService.getUserByName(username)
             //    .then(function (user) {
             //        if (user !== null && user.password === password) {
