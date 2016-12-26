@@ -1,0 +1,43 @@
+<style>
+    .login-form {
+        width: 300px;
+        margin: 0 auto;
+    }
+</style>
+
+<form name="loginForm" class="login-form" ng-submit="vm.login()" novalidate="" autocomplete="off">
+    <h3>Please sign in</h3>
+    
+    <div ng-show="error" class="alert alert-danger">{{vm.error}}</div>
+
+    <div class="form-group" ng-class="{ 'has-error' : loginForm.username.$invalid && !loginForm.username.$pristine }">
+        <input type="text"
+               name="username"
+               class="form-control"
+               placeholder="Login"
+               ng-model="vm.user.username"
+               ng-model-options="{updateOn: 'blur'}"
+               required
+               ng-pattern="/^[a-zA-Z]*$/"
+			   autocomplete="off"			   />
+        <span ng-show="loginForm.username.$touched && loginForm.username.$error.required" class="help-block">* enter</span>
+        <span ng-show="loginForm.username.$error.pattern" class="help-block">*The login must contain only letters.</span>
+    </div>
+
+    <div class="form-group" ng-class="{ 'has-error' : loginForm.password.$invalid && !loginForm.password.$pristine }">
+        <input type="password"
+               name="password"
+               class="form-control"
+               placeholder="Password"
+               ng-model="vm.user.password"
+               ng-model-options="{updateOn: 'blur'}"
+               required
+               ng-pattern="/^[a-zA-Z0-9]*$/"
+			   autocomplete="off"			   />
+
+        <span ng-show="loginForm.password.$touched && loginForm.password.$error.required" class="help-block">* enter</span>
+        <span ng-show="loginForm.password.$error.pattern" class="help-block">*The password must contain only letters and numbers.</span>
+    </div>
+
+    <button class="btn btn-primary" ng-disabled="!loginForm.$valid" type="submit">Sign in</button>
+</form>

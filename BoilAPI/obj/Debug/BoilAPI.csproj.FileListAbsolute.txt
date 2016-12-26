@@ -1,0 +1,177 @@
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\csc.exe
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\vbc.exe
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\BoilAPI.dll.config
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\BoilAPI.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\BoilAPI.pdb
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Antlr3.Runtime.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\EntityFramework.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.Web.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Newtonsoft.Json.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Owin.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Helpers.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Http.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Http.Owin.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Mvc.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Optimization.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Razor.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.WebPages.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\WebGrease.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.Web.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Newtonsoft.Json.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Helpers.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Http.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Mvc.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Optimization.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Razor.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.WebPages.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\EntityFramework.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\bin\System.Web.Http.Owin.xml
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\obj\Debug\BoilAPI.dll
+C:\Users\mdum\Documents\Visual Studio 2015\Projects\BoilAPI\BoilAPI\obj\Debug\BoilAPI.pdb
+D:\BoilAPI\BoilAPI\bin\roslyn\csc.exe
+D:\BoilAPI\BoilAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BoilAPI\BoilAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BoilAPI\BoilAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BoilAPI\BoilAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BoilAPI\BoilAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BoilAPI\BoilAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BoilAPI\BoilAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\BoilAPI\BoilAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\BoilAPI\BoilAPI\bin\roslyn\vbc.exe
+D:\BoilAPI\BoilAPI\bin\roslyn\VBCSCompiler.exe
+D:\BoilAPI\BoilAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\BoilAPI\BoilAPI\bin\BoilAPI.dll.config
+D:\BoilAPI\BoilAPI\bin\BoilAPI.dll
+D:\BoilAPI\BoilAPI\bin\BoilAPI.pdb
+D:\BoilAPI\BoilAPI\bin\Antlr3.Runtime.dll
+D:\BoilAPI\BoilAPI\bin\EntityFramework.dll
+D:\BoilAPI\BoilAPI\bin\EntityFramework.SqlServer.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.Web.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.ApplicationInsights.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\BoilAPI\BoilAPI\bin\Newtonsoft.Json.dll
+D:\BoilAPI\BoilAPI\bin\Owin.dll
+D:\BoilAPI\BoilAPI\bin\System.Net.Http.Formatting.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.Helpers.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.Http.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.Http.Owin.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.Http.WebHost.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.Mvc.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.Optimization.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.Razor.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.WebPages.Deployment.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.WebPages.dll
+D:\BoilAPI\BoilAPI\bin\System.Web.WebPages.Razor.dll
+D:\BoilAPI\BoilAPI\bin\WebGrease.dll
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.Web.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.ApplicationInsights.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BoilAPI\BoilAPI\bin\Newtonsoft.Json.xml
+D:\BoilAPI\BoilAPI\bin\System.Net.Http.Formatting.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.Helpers.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.Http.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.Http.WebHost.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.Mvc.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.Optimization.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.Razor.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.WebPages.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.WebPages.Deployment.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.WebPages.Razor.xml
+D:\BoilAPI\BoilAPI\bin\Antlr3.Runtime.pdb
+D:\BoilAPI\BoilAPI\bin\EntityFramework.xml
+D:\BoilAPI\BoilAPI\bin\EntityFramework.SqlServer.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BoilAPI\BoilAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BoilAPI\BoilAPI\bin\System.Web.Http.Owin.xml
+D:\BoilAPI\BoilAPI\obj\Debug\BoilAPI.csprojResolveAssemblyReference.cache
+D:\BoilAPI\BoilAPI\obj\Debug\BoilAPI.dll
+D:\BoilAPI\BoilAPI\obj\Debug\BoilAPI.pdb

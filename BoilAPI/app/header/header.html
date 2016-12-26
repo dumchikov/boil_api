@@ -1,0 +1,24 @@
+﻿<nav class="navbar navbar-default" ng-controller="Header as vm">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#/products">Angular</a>
+        </div>
+
+        <ul class="nav navbar-nav">
+            <ol class="breadcrumb">
+                <li ng-repeat="bc in vm.breadcrumbs.path">
+                    <a href="{{bc.link}}">{{bc.name}}</a>
+                </li>
+                <li class="active">{{vm.breadcrumbs.current.name}}</li>
+            </ol>
+        </ul>
+        <ul ng-if="vm.isAuthenticated" class="nav navbar-nav navbar-right">
+            <li>
+                <a href>{{vm.username}}</a>
+            </li>
+            <li>
+                <a href ng-click="vm.logoff()">{{vm.res.exit}}</a>
+            </li>
+        </ul>
+    </div>
+</nav>

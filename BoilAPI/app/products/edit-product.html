@@ -1,0 +1,114 @@
+<br />
+
+<form name="productForm" class="form-horizontal" ng-submit="vm.save(productForm)" novalidate>
+    <!--title-->
+    <div class="form-group" ng-class="{ 'has-error' : productForm.title.$invalid && !productForm.title.$pristine }">
+        <label class="control-label col-sm-2">{{vm.res.title}}</label>
+        <div class="col-sm-10">
+            <input name="title" type="text" class="form-control" ng-model="vm.product.title" required />
+        </div>
+    </div>
+
+    <!--description-->
+    <div class="form-group" ng-class="{ 'has-error' : productForm.description.$invalid && !productForm.description.$pristine }">
+        <label class="control-label col-sm-2">{{vm.res.description}}</label>
+        <div class="col-sm-10">
+            <textarea rows="6" name="description" type="text" class="form-control" ng-model="vm.product.description" required ></textarea>
+        </div>
+    </div>
+
+    <!--category-->
+    <div class="form-group">
+        
+        <label class="control-label col-sm-2">{{vm.res.category}}</label>
+        <div class="col-sm-10">
+            <select class="form-control" 
+                    ng-options="o as o.name for o in vm.categories track by o.type" 
+                    ng-model="vm.product.category"></select>
+        </div>
+    </div>
+
+    <!--image-->
+    <div class="form-group" ng-class="{ 'has-error' : productForm.image.$invalid && !productForm.image.$pristine }">
+        <label class="control-label col-sm-2">{{vm.res.image}}</label>
+        <div class="col-sm-10">
+            <input name="image" type="url" class="form-control" ng-model="vm.product.image" required />
+        </div>
+    </div>
+    
+    <!--image view-->
+    <div class="form-group">
+        <label class="control-label col-sm-2"></label>
+        <div class="col-sm-10">
+            <img ng-src="{{vm.product.image}}" width="250" />
+        </div>
+    </div>
+
+    <!--timers-->
+
+    <div class="form-group">
+        <label class="col-xs-2 control-label">{{vm.res.timers}}</label>
+        <div class="col-xs-10">
+            <div class="form-inline">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="{{vm.res.timer_desc}}" ng-model="vm.newTimer.description"/>
+                </div>
+                <div class="form-group">
+                    <input type="number" class="form-control" placeholder="{{vm.res.timer_dur}}" ng-model="vm.newTimer.duration"/>
+                </div>
+                <div class="form-group">
+                    <button type="button" class="form-control btn btn-success" ng-click="vm.addTimer()">{{vm.res.add_timer}}</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="form-group" ng-repeat="timer in vm.product.timers">
+        <label class="col-xs-2 control-label"></label>
+        <div class="col-xs-10">
+            <div class="form-inline">
+                <div class="form-group">
+                    <input name="timerDescription" type="text" class="form-control" ng-model="timer.description" required />
+                </div>
+                <div class="form-group">
+                    <input name="timerDuration" type="number" class="form-control" ng-model="timer.duration" required />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-primary">{{vm.res.save}}</button>
+            <button type="button" class="btn btn-default" ng-click="vm.cancel()">{{vm.res.cancel}}</button>
+        </div>
+    </div>
+
+</form>
+
+<script type="text/ng-template" id="errorsModal.html">
+    <div class="modal-header">
+        <h3 class="modal-title">{{res.errors}}</h3>
+    </div>
+    <div class="modal-body">
+        <div class="alert alert-danger">
+
+            <span ng-show="productForm.title.$error.required" class="help-block">{{res.title_is_req}}</span>
+
+            <span ng-show="productForm.description.$error.required" class="help-block">{{res.desc_is_req}}</span>
+
+            <span ng-show="productForm.image.$error.required" class="help-block">{{res.image_is_req}}</span>
+
+            <span ng-show="productForm.image.$error.url" class="help-block">{{res.image_should_be_url}}</span>
+            
+            <span ng-show="productForm.timerDuration.$error.required" class="help-block">{{res.timer_dur_is_req}}</span>
+            
+            <span ng-show="productForm.timerDuration.$error.number" class="help-block">{{res.timer_dur_should_be_number}}</span>
+            
+            <span ng-show="productForm.timerDescription.$error.required" class="help-block">{{res.timer_desc_is_req}}</span>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button type="button" ng-click="close()" class="btn btn-default" data-dismiss="modal">{{res.close}}</button>
+    </div>
+</script>
