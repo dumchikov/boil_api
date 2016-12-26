@@ -7,6 +7,9 @@
         Fish,
         Seafood,
         Eggs,
-        Mashrooms
+        Mashrooms,
+        Cereals,
+        Macaroni,
+        Others
     }
 }
